@@ -1,0 +1,18 @@
+autoscan: warning: missing AC_TYPE_INT16_T wanted by: 
+	scan.c:45
+	flexint.h:20
+autoscan: warning: missing AC_TYPE_INT32_T wanted by: 
+	scan.c:47
+	flexint.h:22
+autoscan: warning: missing AC_TYPE_INT8_T wanted by: 
+	scan.c:43
+	flexint.h:18
+autoscan: warning: missing AC_TYPE_UINT16_T wanted by: 
+	scan.c:46
+	flexint.h:21
+autoscan: warning: missing AC_TYPE_UINT32_T wanted by: 
+	scan.c:48
+	flexint.h:23
+autoscan: warning: missing AC_TYPE_UINT8_T wanted by: 
+	scan.c:44
+	flexint.h:19
